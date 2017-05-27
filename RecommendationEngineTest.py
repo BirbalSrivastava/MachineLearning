@@ -1,6 +1,6 @@
-# @AUTHOR: Yash
+# @AUTHOR: Birbal Srivastava
 # @DATE: 12th March 2016
-# @CS5344 NUS Project Recommendation Engine (Item-Item, User-User)
+# @Recommendation Engine (Item-Item, User-User)
 import pandas as pd
 import gzip
 from math import sqrt
